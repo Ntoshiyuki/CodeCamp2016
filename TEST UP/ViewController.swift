@@ -4,7 +4,8 @@
 //
 //  Created by docomo on 2016/12/07.
 //  Copyright © 2016年 NAGAE TOSHIYUKI. All rights reserved.
-//
+//テスト
+
 
 import UIKit
 
